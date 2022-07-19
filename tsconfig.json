@@ -1,0 +1,15 @@
+{
+  "compilerOptions": {
+    "target": "ES2015",
+    "module": "CommonJS",
+    "strict": true,
+    "esModuleInterop": true,
+    "forceConsistentCasingInFileNames": true,
+    "noEmit": false,
+    "declaration": true,
+    "moduleResolution": "node",
+    "outDir": "lib"
+    // "outFile": "createMochaWebpack.js"
+  },
+  "include": ["src/createMochaWebpack.ts"]
+}
