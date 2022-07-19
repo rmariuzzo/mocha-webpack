@@ -1,5 +1,5 @@
 {
-  "name": "@mariuzzo/mocha-webpack",
+  "name": "@rmariuzzo/mocha-webpack",
   "private": false,
   "version": "9.0.0",
   "description": "mocha cli with webpack support",
